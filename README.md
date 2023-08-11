@@ -1,2 +1,2 @@
 # gitevscode
-teste edição com GitHub mais   vscode
+TEste edição github + vscode
